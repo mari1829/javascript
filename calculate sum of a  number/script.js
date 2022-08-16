@@ -9,5 +9,4 @@ while (n > 0) {
   sum = sum + rem;
  
 }
-
 console.log(sum);

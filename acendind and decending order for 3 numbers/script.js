@@ -2,6 +2,8 @@ let a = parseInt(prompt("Give The a value:"))
 let b = parseInt(prompt("Give The b Value:"))
 let c = parseInt(prompt("Give The c Value:"))
 
+
+
 if(a>b && a>c){
     if(b>c){
         console.log(c,b,a);
