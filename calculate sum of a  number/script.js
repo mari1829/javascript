@@ -6,7 +6,7 @@ while (n > 0) {
   rem = n % 10;
   n = n / 10;
   n = parseInt(n);
-  sum = sum + rem;
+  sum = rem+sum;
  
 }
 console.log(sum);
