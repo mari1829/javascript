@@ -8,9 +8,9 @@ var c = parseInt(prompt("first value:"))
 var d = parseInt(prompt("second value:"))
 console.log("first value:",c);
 console.log("second value:",d);
-console.log("Total value:", c + d);
+alert(c + d);
 
 let e = 25;
-let f = 25;
+let f = 28;
 alert(a + b)
 document.write(e + f);
